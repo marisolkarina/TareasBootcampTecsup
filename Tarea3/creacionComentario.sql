@@ -10,7 +10,8 @@ create table if not exists comentario(
 alter table comentario
 add constraint fk_post
 foreign key(post_id_fk)
-references post(post_id);
+references post(post_id)
+on delete cascade;
 
 alter table usuario
 add constraint fk_usuario
