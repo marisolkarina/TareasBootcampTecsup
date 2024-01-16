@@ -1,0 +1,15 @@
+insert into autores (autor_id, nombre) values (1, 'Gabriel García');
+insert into autores (autor_id, nombre) values (2, 'Jane Austen');
+insert into autores (autor_id, nombre) values (3, 'Ernest Hemingway');
+insert into autores (autor_id, nombre) values (4, 'Agatha Christie');
+insert into autores (autor_id, nombre) values (5, 'Haruki Murakami');
+insert into autores (autor_id, nombre) values (6, 'Virginia Woolf');
+insert into autores (autor_id, nombre) values (7, 'F. Scott Fitzgerald');
+insert into autores (autor_id, nombre) values (8, 'J.K. Rowling');
+insert into autores (autor_id, nombre) values (9, 'Leo Tolstoy');
+insert into autores (autor_id, nombre) values (10, 'Maya Angelou');
+insert into autores (autor_id, nombre) values (11, 'George Orwell');
+insert into autores (autor_id, nombre) values (12, 'Isabel Allende');
+insert into autores (autor_id, nombre) values (13, 'Milan Kundera');
+insert into autores (autor_id, nombre) values (14, 'Zadie Smith');
+insert into autores (autor_id, nombre) values (15, 'Gabriel García');

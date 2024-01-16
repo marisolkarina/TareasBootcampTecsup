@@ -1,0 +1,15 @@
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (1, '08-02-2023', '17-05-2023', 'eget', 12);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (2, '07-03-2023', '21-05-2023', 'ligula', 8);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (3, '29-03-2023', '30-12-2023', 'velr', 2);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (4, '23-02-2023', '19-12-2023', 'primis', 9);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (5, '08-03-2023', '19-06-2023', 'in', 15);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (6, '24-03-2023', '13-12-2023', 'hac', 11);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (7, '05-03-2023', '12-08-2023', 'rhoncus', 10);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (8, '06-02-2023', '29-04-2023', 'faucibus', 11);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (9, '26-01-2023', '29-08-2023', 'vel', 10);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (10, '18-03-2023', '03-07-2023', 'pede', 6);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (11, '08-02-2023', '15-05-2023', 'nulla', 12);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (12, '05-03-2023', '25-05-2023', 'laoreet', 10);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (13, '24-02-2023', '17-08-2023', 'egetu', 7);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (14, '20-02-2023', '03-07-2023', 'parturient', 6);
+insert into prestamos (prestamo_id, fecha_prestamo, fecha_prestamo_devolucion, isbn, lector_id) values (15, '05-02-2023', '03-08-2023', 'vivamus', 15);

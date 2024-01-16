@@ -1,0 +1,15 @@
+insert into categorias (categoria_id, nombre) values (1, 'Novela Histórica');
+insert into categorias (categoria_id, nombre) values (2, 'Ciencia Ficción');
+insert into categorias (categoria_id, nombre) values (3, 'Misterio/Thriller');
+insert into categorias (categoria_id, nombre) values (4, 'Novela Romántica');
+insert into categorias (categoria_id, nombre) values (5, 'Fantasía');
+insert into categorias (categoria_id, nombre) values (6, 'Poesía');
+insert into categorias (categoria_id, nombre) values (7, 'No Ficción');
+insert into categorias (categoria_id, nombre) values (8, 'Biografía');
+insert into categorias (categoria_id, nombre) values (9, 'Ensayo');
+insert into categorias (categoria_id, nombre) values (10, 'Ciencia Popular');
+insert into categorias (categoria_id, nombre) values (11, 'Literatura Clásica');
+insert into categorias (categoria_id, nombre) values (12, 'Aventura');
+insert into categorias (categoria_id, nombre) values (13, 'Novela Negra');
+insert into categorias (categoria_id, nombre) values (14, 'Humor');
+insert into categorias (categoria_id, nombre) values (15, 'Autoayuda');

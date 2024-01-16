@@ -1,0 +1,15 @@
+insert into lectores (lector_id, nombre) values (1, 'Reece');
+insert into lectores (lector_id, nombre) values (2, 'Zahara');
+insert into lectores (lector_id, nombre) values (3, 'Wilma');
+insert into lectores (lector_id, nombre) values (4, 'Bell');
+insert into lectores (lector_id, nombre) values (5, 'Doria');
+insert into lectores (lector_id, nombre) values (6, 'Neille');
+insert into lectores (lector_id, nombre) values (7, 'Emylee');
+insert into lectores (lector_id, nombre) values (8, 'Barty');
+insert into lectores (lector_id, nombre) values (9, 'Martyn');
+insert into lectores (lector_id, nombre) values (10, 'Bendix');
+insert into lectores (lector_id, nombre) values (11, 'Lee');
+insert into lectores (lector_id, nombre) values (12, 'Angelique');
+insert into lectores (lector_id, nombre) values (13, 'Madelaine');
+insert into lectores (lector_id, nombre) values (14, 'Judas');
+insert into lectores (lector_id, nombre) values (15, 'Filmore');

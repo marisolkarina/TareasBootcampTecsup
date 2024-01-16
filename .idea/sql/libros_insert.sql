@@ -1,0 +1,15 @@
+insert into libros (isbn, titulo) values ('eget', 'quis');
+insert into libros (isbn, titulo) values ('ligula', 'pede');
+insert into libros (isbn, titulo) values ('velr', 'varius ut');
+insert into libros (isbn, titulo) values ('primis', 'iaculis');
+insert into libros (isbn, titulo) values ('in', 'placerat ante');
+insert into libros (isbn, titulo) values ('hac', 'pellentesque eget');
+insert into libros (isbn, titulo) values ('rhoncus', 'elit');
+insert into libros (isbn, titulo) values ('faucibus', 'montes');
+insert into libros (isbn, titulo) values ('vel', 'est risus');
+insert into libros (isbn, titulo) values ('pede', 'sem mauris');
+insert into libros (isbn, titulo) values ('nulla', 'scelerisque quam');
+insert into libros (isbn, titulo) values ('laoreet', 'tristique tortor');
+insert into libros (isbn, titulo) values ('egetu', 'ligula vehicula');
+insert into libros (isbn, titulo) values ('parturient', 'lacus curabitur');
+insert into libros (isbn, titulo) values ('vivamus', 'fermentum donec');

@@ -1,0 +1,15 @@
+insert into autores_libros (isbn, autor_id) values ('velr', 11);
+insert into autores_libros (isbn, autor_id) values ('faucibus', 9);
+insert into autores_libros (isbn, autor_id) values ('pede', 9);
+insert into autores_libros (isbn, autor_id) values ('eget', 9);
+insert into autores_libros (isbn, autor_id) values ('ligula', 6);
+insert into autores_libros (isbn, autor_id) values ('in', 6);
+insert into autores_libros (isbn, autor_id) values ('primis', 10);
+insert into autores_libros (isbn, autor_id) values ('vel', 5);
+insert into autores_libros (isbn, autor_id) values ('parturient', 15);
+insert into autores_libros (isbn, autor_id) values ('rhoncus', 5);
+insert into autores_libros (isbn, autor_id) values ('hac', 4);
+insert into autores_libros (isbn, autor_id) values ('laoreet', 3);
+insert into autores_libros (isbn, autor_id) values ('egetu', 9);
+insert into autores_libros (isbn, autor_id) values ('vivamus', 9);
+insert into autores_libros (isbn, autor_id) values ('nulla', 11);

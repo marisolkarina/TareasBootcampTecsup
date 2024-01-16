@@ -1,0 +1,15 @@
+insert into libros_categorias (isbn, categoria_id) values ('eget', 10);
+insert into libros_categorias (isbn, categoria_id) values ('ligula', 3);
+insert into libros_categorias (isbn, categoria_id) values ('velr', 2);
+insert into libros_categorias (isbn, categoria_id) values ('primis', 1);
+insert into libros_categorias (isbn, categoria_id) values ('in', 4);
+insert into libros_categorias (isbn, categoria_id) values ('hac', 2);
+insert into libros_categorias (isbn, categoria_id) values ('rhoncus', 3);
+insert into libros_categorias (isbn, categoria_id) values ('faucibus', 6);
+insert into libros_categorias (isbn, categoria_id) values ('vel', 6);
+insert into libros_categorias (isbn, categoria_id) values ('pede', 2);
+insert into libros_categorias (isbn, categoria_id) values ('nulla', 12);
+insert into libros_categorias (isbn, categoria_id) values ('laoreet', 4);
+insert into libros_categorias (isbn, categoria_id) values ('egetu', 7);
+insert into libros_categorias (isbn, categoria_id) values ('parturient', 14);
+insert into libros_categorias (isbn, categoria_id) values ('vivamus', 10);
